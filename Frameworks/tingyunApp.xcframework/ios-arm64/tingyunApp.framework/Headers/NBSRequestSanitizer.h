@@ -11,8 +11,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface NBSRequestSanitizer : NSObject
 
-@property (nonatomic, assign) BOOL enabled;
-
 + (instancetype)sanitizer;
 
 - (void)setRequestHeaderSanitizionWithBlock:(nullable NSDictionary *_Nullable (^)(NSURL *url, NSDictionary *allHTTPHeaderFields))block;

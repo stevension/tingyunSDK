@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/NBSAppAgent.h</key>
 		<data>
-		LgGNXD2RZRRMngFFzgb9fe91YOI=
+		hgqAE6GXLgafh7Qj88Wu72vgz4o=
 		</data>
 		<key>Headers/NBSDefines.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Headers/NBSRequestSanitizer.h</key>
 		<data>
-		N6SpGfiTY4coWx1tFFC7h6LBRHo=
+		BVwzy1TAsT2HQYwG5Q9nYaIA5Vk=
 		</data>
 		<key>Headers/NBSResponseSanitizer.h</key>
 		<data>
-		cmcMD+JuDZJXDWADnLnb2hG5t78=
+		a1qtSO6Iq3d4P+uCWBpF1wgCFzA=
 		</data>
 		<key>Headers/NBSSerializableProtocol.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kgngnJ3iWgUe2rLQGzCDQvFe8ak=
+		eXuWreVo7BHML/d5MQAWPmVeY8c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -49,21 +49,13 @@
 	<dict>
 		<key>Headers/NBSAppAgent.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LgGNXD2RZRRMngFFzgb9fe91YOI=
-			</data>
 			<key>hash2</key>
 			<data>
-			Kv0CCMvkemRyqi68o94DMifLXWHYfh6Dp7dcN0ByzlU=
+			T4FEd4dy3ZyiHk4VuZpyDVG4APiZFnbI6yPZkd4JVB8=
 			</data>
 		</dict>
 		<key>Headers/NBSDefines.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d1JNjUrHWMvfzhSPawVZO3mobiw=
-			</data>
 			<key>hash2</key>
 			<data>
 			MmMKyXgDWoeq02mO8d+xBcTWU8k+Fn4l0U6eHqtgwjc=
@@ -71,10 +63,6 @@
 		</dict>
 		<key>Headers/NBSDiagnosisTask.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JVgaNpD9aIL6+SB781FS2sP1Z5I=
-			</data>
 			<key>hash2</key>
 			<data>
 			2wO9UioagnleZkgiysElT5DxldirK0iz9dSpRx8Cb+s=
@@ -82,32 +70,20 @@
 		</dict>
 		<key>Headers/NBSRequestSanitizer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			N6SpGfiTY4coWx1tFFC7h6LBRHo=
-			</data>
 			<key>hash2</key>
 			<data>
-			wVwfEdF/nIWXHc0UqOEWKNr1bHydyDW+onDQCgxPc8E=
+			hRsJdVA96AzH6h4Ol9LFvzK5RWOgEhYNba8ELmtCEtk=
 			</data>
 		</dict>
 		<key>Headers/NBSResponseSanitizer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cmcMD+JuDZJXDWADnLnb2hG5t78=
-			</data>
 			<key>hash2</key>
 			<data>
-			Nv4G9mZd2VSVYKkLhhyfkeMSOVNhQc5/4m3RIYXUn3g=
+			Hxro19goiR69MyH7Hf39v2DUXJyBIIpVV1ZulkWbENo=
 			</data>
 		</dict>
 		<key>Headers/NBSSerializableProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5fwDa2xQinXier59gGJKRiIhJO0=
-			</data>
 			<key>hash2</key>
 			<data>
 			40Qd1F0gxvJG0Eh8LGW/U6cocUyn+nuA9BDjcCaLklw=
@@ -115,10 +91,6 @@
 		</dict>
 		<key>Headers/NBSSpanProtocol.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ykRkUuSyNr+KZoUs2De3JQ11z3s=
-			</data>
 			<key>hash2</key>
 			<data>
 			dYBuKhbj7/UHxgaIxm1sTSIcQbzPCw7yfmxk7IoGh3A=
@@ -126,10 +98,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PTe4npOANhUN1zaWP0Khw6wKVoc=
-			</data>
 			<key>hash2</key>
 			<data>
 			TD8m74QmJRuFY1fB1Myi3V95TeUoaFKB59gPADqrHYE=
@@ -137,10 +105,6 @@
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ddsCEeGJBbnrjsOkIwdWXlBmLts=
-			</data>
 			<key>hash2</key>
 			<data>
 			PJUjG9LcgYnfNgdmcsfTEu3t68UDLswnXMXQ6GXHHXA=

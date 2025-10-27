@@ -348,6 +348,12 @@ void nbsGetCurlNetworkInfo(void *curl,int curlcode,void *ptr);
  */
 + (void)setupReponseSanitizer:(void (^)(NBSResponseSanitizer *responseSanitizer))configureSanitizer;
 
+/**
+ *@brief 设置网络请求响应时间过滤阈值
+ *@param threshold 阈值，单位ms
+ */
++ (void)setNetworkThreshold:(NSInteger)threshold;
+
 #pragma mark - 视频插件相关接口
 /**
  * 开启
@@ -449,6 +455,31 @@ void nbsGetCurlNetworkInfo(void *curl,int curlcode,void *ptr);
  *@return pageId 页面id
  */
 + (NSString *)finishPageWithName:(NSString *)pageName;
+
+#pragma mark - For Tags
+/**
+ *@brief 设置全局的tag。Tags将会关联至每一条数据上，相同的key值将会覆盖,支持在任意位置设置
+ *@param key 最大长度为32个字符，并且只能是【字母、数字、下划线】以字母开头，a-zA-Z0-9_，当不是该规则时数据将丢弃
+ *@param value 最大长度为200个字符串，超过该规则时数据将丢弃
+ */
++ (void)setTagValue:(NSString  *)value forKey:(NSString *)key;
+/**
+ *@brief  删除指定key值的tag
+ */
++ (void)removeTagForKey:(NSString *)key;
+/**
+ * @brief 清空tags
+ */
++ (void)clearTags;
+/**
+ *@brief 返回指定key值的tag值
+ */
++ (NSString *)tagForKey:(NSString *)key;
+/**
+ *@brief 获取当前的tags
+ */
++ (NSDictionary *)getTags;
+
 @end
 
 /*
