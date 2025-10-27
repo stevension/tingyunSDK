@@ -1,0 +1,94 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "tingyunsdk",
+          "kind" : "root",
+          "location" : "/Users/tgf/Documents/Github/tingyunSDK",
+          "name" : "tingyunSDK"
+        },
+        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/tingyunApp.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "tingyunApp"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "tingyunsdk",
+          "kind" : "root",
+          "location" : "/Users/tgf/Documents/Github/tingyunSDK",
+          "name" : "tingyunSDK"
+        },
+        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/TingyunLog.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "tingyunLog"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "tingyunsdk",
+          "kind" : "root",
+          "location" : "/Users/tgf/Documents/Github/tingyunSDK",
+          "name" : "tingyunSDK"
+        },
+        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSCPUMonitorKit.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "tingyunCPU"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "tingyunsdk",
+          "kind" : "root",
+          "location" : "/Users/tgf/Documents/Github/tingyunSDK",
+          "name" : "tingyunSDK"
+        },
+        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSOOM.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "tingyunOOM"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "tingyunsdk",
+          "kind" : "root",
+          "location" : "/Users/tgf/Documents/Github/tingyunSDK",
+          "name" : "tingyunSDK"
+        },
+        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSGMKit.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "tingyunGM"
+      },
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "tingyunsdk",
+          "kind" : "root",
+          "location" : "/Users/tgf/Documents/Github/tingyunSDK",
+          "name" : "tingyunSDK"
+        },
+        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSReplayKit.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "tingyunReplay"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}

@@ -1,0 +1,6 @@
+framework module NBSOOM {
+  umbrella header "NBSOOM.h"
+
+  export *
+  module * { export * }
+}

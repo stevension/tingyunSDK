@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/tgf/Documents/Github/tingyunSDK/.build/x86_64-apple-macosx/debug/tingyunAppSDK.build/master.swiftdeps"
+  },
+  "/Users/tgf/Documents/Github/tingyunSDK/Sources/tingyunSDK/tingyunSDK.swift": {
+    "dependencies": "/Users/tgf/Documents/Github/tingyunSDK/.build/x86_64-apple-macosx/debug/tingyunAppSDK.build/tingyunSDK.d",
+    "object": "/Users/tgf/Documents/Github/tingyunSDK/.build/x86_64-apple-macosx/debug/tingyunAppSDK.build/tingyunSDK.swift.o",
+    "swiftmodule": "/Users/tgf/Documents/Github/tingyunSDK/.build/x86_64-apple-macosx/debug/tingyunAppSDK.build/tingyunSDK~partial.swiftmodule",
+    "swift-dependencies": "/Users/tgf/Documents/Github/tingyunSDK/.build/x86_64-apple-macosx/debug/tingyunAppSDK.build/tingyunSDK.swiftdeps"
+  }
+}

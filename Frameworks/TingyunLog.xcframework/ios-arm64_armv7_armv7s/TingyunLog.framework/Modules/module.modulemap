@@ -1,0 +1,6 @@
+framework module TingyunLog {
+  umbrella header "TingyunLog.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,4 @@
+module tingyunAppSDK {
+    header "/Users/tgf/Documents/Github/tingyunSDK/.build/x86_64-apple-macosx/debug/tingyunAppSDK.build/tingyunAppSDK-Swift.h"
+    requires objc
+}

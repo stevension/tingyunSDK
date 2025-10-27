@@ -1,0 +1,6 @@
+framework module NBSGMKit {
+  umbrella header "NBSGMKit.h"
+
+  export *
+  module * { export * }
+}
