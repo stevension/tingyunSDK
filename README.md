@@ -1,7 +1,7 @@
 # TingyunSDK
 
 Tingyun iOS SDK 模块化分发包  
-支持按需集成崩溃、网络、卡顿、主模块等功能。
+支持按需集成主模块、CPU 监测、国密加密、OOM、视频回放、日志回捞等功能。
 
 ---
 
@@ -14,7 +14,7 @@ Tingyun iOS SDK 模块化分发包
 | tingyunGM | 国密加密模块 |
 | tingyunOOM | OOM监控模块 |
 | tingyunReplay | 视频回放模块 |
-| tingyunLog | 日志模块） |
+| tingyunLog | 日志模块 |
 
 ---
 
