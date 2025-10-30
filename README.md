@@ -10,10 +10,10 @@ Tingyun iOS SDK 模块化分发包
 | 模块 | 名称 | 说明 | 是否必须 |
 |------|------|------|------|
 | tingyunApp | 主模块 | SDK 核心接口 | YES |
-| tingyunCPU | CPU模块 | NO |
-| tingyunOOM | OOM监控模块 | NO |
-| tingyunReplay | 视频回放模块 | NO |
-| tingyunLog | 日志模块 | NO |
+| tingyunCPU | CPU模块 | 采集 CPU 使用率、使用速率、CPU 异常| NO |
+| tingyunOOM | OOM监控模块 | 采集 OOM 崩溃 | NO |
+| tingyunReplay | 视频模块 | 支持视频回放 | NO |
+| tingyunLog | 日志模块 | 支持日志回捞 | NO |
 
 ---
 
