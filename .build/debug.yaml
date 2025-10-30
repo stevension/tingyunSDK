@@ -11,9 +11,6 @@ nodes:
   "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSCPUMonitorKit.xcframework/":
     is-directory-structure: true
     content-exclusion-patterns: [".git",".build"]
-  "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSGMKit.xcframework/":
-    is-directory-structure: true
-    content-exclusion-patterns: [".git",".build"]
   "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSOOM.xcframework/":
     is-directory-structure: true
     content-exclusion-patterns: [".git",".build"]
@@ -53,7 +50,7 @@ commands:
 
   "PackageStructure":
     tool: package-structure-tool
-    inputs: ["/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSCPUMonitorKit.xcframework/","/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSGMKit.xcframework/","/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSOOM.xcframework/","/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSReplayKit.xcframework/","/Users/tgf/Documents/Github/tingyunSDK/Frameworks/TingyunLog.xcframework/","/Users/tgf/Documents/Github/tingyunSDK/Frameworks/tingyunApp.xcframework/","/Users/tgf/Documents/Github/tingyunSDK/Sources/tingyunSDK/","/Users/tgf/Documents/Github/tingyunSDK/Package.swift","/Users/tgf/Documents/Github/tingyunSDK/Package.resolved"]
+    inputs: ["/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSCPUMonitorKit.xcframework/","/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSOOM.xcframework/","/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSReplayKit.xcframework/","/Users/tgf/Documents/Github/tingyunSDK/Frameworks/TingyunLog.xcframework/","/Users/tgf/Documents/Github/tingyunSDK/Frameworks/tingyunApp.xcframework/","/Users/tgf/Documents/Github/tingyunSDK/Sources/tingyunSDK/","/Users/tgf/Documents/Github/tingyunSDK/Package.swift","/Users/tgf/Documents/Github/tingyunSDK/Package.resolved"]
     outputs: ["<PackageStructure>"]
     description: "Planning build"
     allow-missing-inputs: true

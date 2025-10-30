@@ -9,20 +9,6 @@
           "location" : "/Users/tgf/Documents/Github/tingyunSDK",
           "name" : "tingyunSDK"
         },
-        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/tingyunApp.xcframework",
-        "source" : {
-          "type" : "local"
-        },
-        "targetName" : "tingyunApp"
-      },
-      {
-        "kind" : "xcframework",
-        "packageRef" : {
-          "identity" : "tingyunsdk",
-          "kind" : "root",
-          "location" : "/Users/tgf/Documents/Github/tingyunSDK",
-          "name" : "tingyunSDK"
-        },
         "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/TingyunLog.xcframework",
         "source" : {
           "type" : "local"
@@ -37,11 +23,11 @@
           "location" : "/Users/tgf/Documents/Github/tingyunSDK",
           "name" : "tingyunSDK"
         },
-        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSCPUMonitorKit.xcframework",
+        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSReplayKit.xcframework",
         "source" : {
           "type" : "local"
         },
-        "targetName" : "tingyunCPU"
+        "targetName" : "tingyunReplay"
       },
       {
         "kind" : "xcframework",
@@ -65,11 +51,11 @@
           "location" : "/Users/tgf/Documents/Github/tingyunSDK",
           "name" : "tingyunSDK"
         },
-        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSGMKit.xcframework",
+        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSCPUMonitorKit.xcframework",
         "source" : {
           "type" : "local"
         },
-        "targetName" : "tingyunGM"
+        "targetName" : "tingyunCPU"
       },
       {
         "kind" : "xcframework",
@@ -79,11 +65,11 @@
           "location" : "/Users/tgf/Documents/Github/tingyunSDK",
           "name" : "tingyunSDK"
         },
-        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/NBSReplayKit.xcframework",
+        "path" : "/Users/tgf/Documents/Github/tingyunSDK/Frameworks/tingyunApp.xcframework",
         "source" : {
           "type" : "local"
         },
-        "targetName" : "tingyunReplay"
+        "targetName" : "tingyunApp"
       }
     ],
     "dependencies" : [

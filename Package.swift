@@ -10,7 +10,6 @@ let package = Package(
         // 每个模块单独暴露，用户可选择添加
         .library(name: "tingyunApp", targets: ["tingyunApp"]),
         .library(name: "tingyunCPU", targets: ["tingyunCPU"]),
-        .library(name: "tingyunGM", targets: ["tingyunGM"]),
         .library(name: "tingyunOOM", targets: ["tingyunOOM"]),
         .library(name: "tingyunReplay", targets: ["tingyunReplay"]),
         .library(name: "tingyunLog", targets: ["tingyunLog"])
@@ -24,10 +23,6 @@ let package = Package(
         .binaryTarget(
             name: "tingyunCPU",
             path: "./Frameworks/NBSCPUMonitorKit.xcframework"
-        ),
-        .binaryTarget(
-            name: "tingyunGM",
-            path: "./Frameworks/NBSGMKit.xcframework"
         ),
         .binaryTarget(
             name: "tingyunOOM",

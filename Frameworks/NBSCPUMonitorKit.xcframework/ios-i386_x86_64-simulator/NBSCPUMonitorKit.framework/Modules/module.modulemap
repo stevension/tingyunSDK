@@ -1,6 +1,0 @@
-framework module NBSCPUMonitorKit {
-  umbrella header "NBSCPUMonitorKit.h"
-
-  export *
-  module * { export * }
-}
