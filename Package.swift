@@ -15,7 +15,6 @@ let package = Package(
         .library(name: "tingyunLog", targets: ["tingyunLog"])
     ],
     targets: [
-        // 四个独立二进制模块
         .binaryTarget(
             name: "tingyunApp",
             path: "./Frameworks/tingyunApp.xcframework"
